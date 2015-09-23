@@ -23,7 +23,7 @@ if (!empty( $_POST )) {
 }
 
 ?>
-<p>Please click the bigist circle</p>
+<p>Please click the biggest circle</p>
 <form method="post" action="">
 <input type="image" src="captcha.php" name="captcha" />
 </form>
